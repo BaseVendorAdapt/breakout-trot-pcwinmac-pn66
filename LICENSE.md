@@ -1,4 +1,4 @@
-# 
+# Código abierto breakout trading bot flujo de trabajo para Mac OS | Ligero breakout trading bot flujo de trabajo para PC Windows. Con órdenes stop-loss y protección MEV — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
